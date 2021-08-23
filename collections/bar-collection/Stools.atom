@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ashcroftimports.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ashcroftimports.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ashcroftimports.com/collections/bar-collection.atom"/>
+  <title>Ashcroftimports.com</title>
+  <updated>2015-12-09T19:29:00-06:00</updated>
+  <author>
+    <name>Ashcroftimports.com</name>
+  </author>
+  <entry>
+    <id>https://ashcroftimports.com/products/3933883012</id>
+    <published>2015-12-09T19:29:00-06:00</published>
+    <updated>2015-12-09T19:29:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://ashcroftimports.com/products/kira-rocking-chair"/>
+    <title>Ingrid Rocking Chair</title>
+    <s:type>Rocking Chairs</s:type>
+    <s:vendor>TB3 Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0998/9386/products/Done_Shadow.jpg?v=1482258238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TB3 Home<br>
+        <strong>Type: </strong>Rocking Chairs<br>
+        <strong>Price: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="table table-aligned">
+<tbody>
+<tr>
+<th nowrap>SKU No.</th>
+<td class="sku-no" itemprop="identifier" content="sku:SKU23A">
+<table width="59">
+<tbody>
+<tr>
+<td width="59">CRIN-G-787</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<th nowrap>Style/Type</th>
+<td> Modern Rocking Chair</td>
+</tr>
+<tr>
+<th nowrap>General Dimensions</th>
+<td>40"W x 26"D x 43"H</td>
+</tr>
+<tr>
+<th nowrap>Seat Height</th>
+<td>19.5"</td>
+</tr>
+<tr>
+<th nowrap>Seat Depth</th>
+<td>24"</td>
+</tr>
+<tr>
+<th nowrap>Weight (lbs)</th>
+<td>74</td>
+</tr>
+<tr>
+<th nowrap>Wood Stain</th>
+<td>Walnut</td>
+</tr>
+<tr>
+<th nowrap>Upholstery Color</th>
+<td>Willow Grey</td>
+</tr>
+<tr>
+<th nowrap>Materials</th>
+<td>Steel, polyester linen, foam and solid wood</td>
+</tr>
+</tbody>
+</table>
+<h4></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chair</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>Rocking Chairs</s:tag>
+    <s:variant>
+      <id>https://ashcroftimports.com/products/3933883012</id>
+      <title>Default Title</title>
+      <s:price currency="USD">429.00</s:price>
+      <s:sku>CRIN-G-787</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
